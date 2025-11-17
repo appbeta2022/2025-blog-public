@@ -1,4 +1,4 @@
-> blog 前端网站（yysuni.com）已链接到 public 仓库
+> Blog 前端网站（yysuni.com）已链接到 public 仓库
 
 该项目使用 Github App 管理项目内容，请保管好后续创建的 **Private key**，不要上传到公开网上。
 
