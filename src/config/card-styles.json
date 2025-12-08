@@ -28,8 +28,8 @@
 		"width": 350,
 		"height": 286,
 		"order": 5,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 211,
+		"offsetY": -142,
 		"enabled": true
 	},
 	"musicCard": {
@@ -42,20 +42,20 @@
 		"enabled": false
 	},
 	"socialButtons": {
-		"width": 279,
-		"height": 160,
+		"width": 356,
+		"height": 161,
 		"order": 6,
-		"offsetX": -175,
-		"offsetY": 174,
+		"offsetX": -187,
+		"offsetY": 171,
 		"enabled": true
 	},
 	"shareCard": {
-		"width": 200,
-		"height": 180,
+		"width": 358,
+		"height": 161,
 		"order": 7,
-		"offsetX": 212,
-		"offsetY": 235,
-		"enabled": true
+		"offsetX": 205,
+		"offsetY": 162,
+		"enabled": false
 	},
 	"articleCard": {
 		"width": 266,
