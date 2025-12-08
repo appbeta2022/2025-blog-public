@@ -22,7 +22,7 @@
 		"order": 4,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": false
+		"enabled": true
 	},
 	"calendarCard": {
 		"width": 350,
@@ -55,7 +55,7 @@
 		"order": 7,
 		"offsetX": 205,
 		"offsetY": 162,
-		"enabled": false
+		"enabled": true
 	},
 	"articleCard": {
 		"width": 266,
@@ -79,7 +79,7 @@
 		"order": 2,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	},
 	"likePosition": {
 		"width": 54,
