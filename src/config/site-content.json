@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "appbeta2025",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"title": "Expself",
+		"description": "Appbeta 的个人博客，体验和分享、记录。",
 		"username": "Appbeta"
 	},
 	"theme": {
@@ -49,13 +49,6 @@
 			"order": 1
 		},
 		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 4
-		},
-		{
 			"id": "button-1765159723153",
 			"type": "github",
 			"value": "https://github.com/appbeta2022",
@@ -64,7 +57,7 @@
 		},
 		{
 			"id": "button-1765159739994",
-			"type": "link",
+			"type": "github",
 			"value": "https://vercel.com/appbetas-projects-cfb05822/2025-blog-public",
 			"label": "Vercel",
 			"order": 3
