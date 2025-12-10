@@ -1,13 +1,12 @@
 [
 	{
 		"name": "专业资料",
-		"year": 2023,
-		"description": "最开始是觉得掘金这种网站写文章挺好的。后面还是想写一个自己网站，体现自己的风格。MDX 还可以自己写组件到 blog，直接交互，多好。。。没想到为以后埋下了坑。",
-		"image": "https://blog-archive.yysuni.com/favicons/android-chrome-512x512.png",
-		"url": "https://www.tumdoc.cn/",
+		"year": 2025,
+		"image": "blob:https://b.expself.cn/0eba7072-d313-4333-99a9-bf13da55bea9",
+		"url": "http://www.tumdoc.cn",
+		"description": "专业资料",
 		"tags": [
-			"Next.js",
-			"MDX"
+			"tumdoc"
 		]
 	}
 ]
