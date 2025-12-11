@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "Expself",
-		"description": "Appbeta 的个人博客，体验和分享、记录。",
-		"username": "Appbeta"
+		"title": "YYsuni",
+		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "Suni"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -40,8 +40,33 @@
 		}
 	],
 	"currentBackgroundImageId": "",
-	"socialButtons": [],
+	"socialButtons": [
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/yysuni",
+			"label": "Github",
+			"order": 3
+		},
+		{
+			"id": "juejin",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2427311675422382",
+			"label": "稀土掘金",
+			"order": 2
+		},
+		{
+			"id": "email",
+			"type": "email",
+			"value": "yysuni1001@gmail.com",
+			"label": "",
+			"order": 1
+		}
+	],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
-	"hideEditButton": false
+	"isCachePem": false,
+	"hideEditButton": false,
+	"currentHatIndex": 3,
+	"hatFlipped": false
 }
