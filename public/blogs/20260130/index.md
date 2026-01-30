@@ -1,4 +1,4 @@
-来源：[GitHub Desktop 使用指南](https://www.hdxiaoke.top/blog/GitHub-Desktop)
+来源：[2025-blog-public 与上游同步](https://www.hdxiaoke.top/blog/GitHub-Desktop)
 
 “用 GitHub Desktop 进行同步上游等操作是比较方便的选择，以下整理了下，以便操作查看。”
 
