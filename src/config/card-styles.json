@@ -96,8 +96,7 @@
 		"offsetX": -48,
 		"offsetY": -168,
 		"enabled": false
-<<<<<<< Updated upstream
-=======
+
 	},
 	"beianCard": {
 		"width": 200,
@@ -106,9 +105,6 @@
 		"offsetX": null,
 		"offsetY": null,
 		"enabled": false
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 	}
 }
