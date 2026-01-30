@@ -1,10 +1,8 @@
 {
 	"meta": {
-
-		"title": "Expself",
-		"description": "轻体验",
-		"username": "Expself"
-
+		"title": "appbeta",
+		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "Suni"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -49,7 +47,6 @@
 			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
-
 		},
 		{
 			"id": "juejin",
@@ -64,22 +61,18 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
-
 		}
 	],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
+	"enableCategories": true,
 	"currentHatIndex": 3,
-
-	"hatFlipped": false
-
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
 		"text": "",
 		"link": ""
 	}
-
 }
