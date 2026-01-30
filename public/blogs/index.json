@@ -1,5 +1,14 @@
 [
   {
+    "slug": "20260130",
+    "title": "2025-blog-public 与上游同步",
+    "tags": [],
+    "date": "2026-01-30T13:51",
+    "summary": "2025-blog-public 与上游同步",
+    "hidden": false,
+    "category": "代码实现"
+  },
+  {
     "slug": "cartoon-note-render",
     "title": "卡通人物建模笔记 · 三",
     "tags": [
